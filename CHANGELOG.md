@@ -1,4 +1,7 @@
 ## Changelog
+### v0.4.13
+- Made lib detection better
+
 ### v0.4.12
 - update telemetry_metrics and telemetry_metrics_prometheus_core
 - allow passing `ip` option to cowboy
